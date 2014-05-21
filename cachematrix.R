@@ -1,3 +1,4 @@
+## Author Name: Shiva Prasad Kotagiri
 ## The library cachematrix. R contains two functions
 ## 1. Making Cache Matrix
 ## 2. Computing mean fresh or retreiving vlaue from Cache
